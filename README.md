@@ -20,4 +20,4 @@ The Hacker News Feed displays to users the latest news available in real time wi
 ## Deployment
 
 Project was deployed on Netlify. 
-[Check it out!] (https://giuliahackernews.netlify.app/)
+[Check it out!](https://giuliahackernews.netlify.app/)
